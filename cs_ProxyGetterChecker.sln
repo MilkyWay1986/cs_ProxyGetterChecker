@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cs_ProxyGetterChecker", "cs_ProxyGetterChecker\cs_ProxyGetterChecker.csproj", "{7A2FC59B-3127-4285-AB83-1B0EA666921B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A2FC59B-3127-4285-AB83-1B0EA666921B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A2FC59B-3127-4285-AB83-1B0EA666921B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A2FC59B-3127-4285-AB83-1B0EA666921B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A2FC59B-3127-4285-AB83-1B0EA666921B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {39208155-3BD1-4D3F-B86B-7419400B6F1F}
+	EndGlobalSection
+EndGlobal
